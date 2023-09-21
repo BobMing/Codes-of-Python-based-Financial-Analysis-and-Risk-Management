@@ -2,13 +2,13 @@
  基于Python的金融分析与风险管理（第二版） 代码
 
  > 图书信息
- 豆瓣链接: https://book.douban.com/subject/35635842/
- 作者: 斯文
- 出版社: 人民邮电出版社
- 出版年月: 2021-10
- 页数: 611
- 丛书: 异步图书·金融科技系列
- ISBN: 9787115571854
+ > 豆瓣链接: https://book.douban.com/subject/35635842/
+ > 作者: 斯文
+ > 出版社: 人民邮电出版社
+ > 出版年月: 2021-10
+ > 页数: 611
+ > 丛书: 异步图书·金融科技系列
+ > ISBN: 9787115571854
 
 ## Chapters
 
@@ -32,3 +32,11 @@
 - 13: 运用Python构建期权交易策略
 - 14: 运用Python分析期权延伸性应用
 - 15: 运用Python测量风险价值
+
+## Data File Path
+
+Windows文件系统下使用Anaconda Spyder，程序运行环境路径为 `C:\Users\Administrator\`，使用相对路径不如使用绝对路径方便。
+我使用的绝对路径为：
+```
+E:/OneDrive/附件/数据/第3章/<filename>.xlsx
+```
